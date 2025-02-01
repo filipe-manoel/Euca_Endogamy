@@ -27,7 +27,7 @@ VP
 
 #------------------------------------------------------------------------------#
 # Carregando o arquivo melhor_repeticao.RData
-load("C:/Users/LENOVO/OneDrive/POS-DOC/Endogamia/Paper_ROH/codes/melhor_repeticao.RData") #89%
+load("melhor_repeticao.RData") #89%
 
 # Definir o número de ciclos
 ciclos <- 100
